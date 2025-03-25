@@ -1,2 +1,1 @@
-# rmit-ace.github.io
-Ace's Github Pages (RMIT)
+Ace's Apple Research & Development at RMIT University
