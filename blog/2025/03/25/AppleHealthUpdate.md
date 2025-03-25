@@ -3,7 +3,7 @@
 
 Tue 25 March 2025
 
-![Simple Heart Rate App](res/simpleheart.gif)
+![Simple Heart Rate App](https://rmit-ace.github.io/res/simpleheart.gif)
 
 Added sample Xcode project for accessing Heart Rate and Respiratory data from HealthKit.
 See:
