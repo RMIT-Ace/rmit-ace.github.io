@@ -1,6 +1,6 @@
 # Blogs
 
-{% include_relative blog/20250325-AppleHealthUpdate.md %}
+{% include_relative blog/20250325-applehealthupdate.md %}
 
 # Projects
 
