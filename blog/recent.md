@@ -1,3 +1,3 @@
 Recent posts...
 
-{% include_relative blog/2025/03/25/AppleHealthUpdate.md %}
+{% include_relative https://rmit-ace.github.io/blog/2025/03/25/AppleHealthUpdate.md %}
