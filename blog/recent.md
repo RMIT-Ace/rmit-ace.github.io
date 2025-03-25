@@ -1,3 +1,3 @@
 Recent posts...
 
-{% include_relative 20250325-AppleHealthUpdate.md %}
+{% include 20250325-AppleHealthUpdate.md %}
