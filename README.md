@@ -1,6 +1,6 @@
 # Blogs
 
-{% include_relative blog/recent.md %}
+{% include_relative recent.md %}
 
 ---
 
