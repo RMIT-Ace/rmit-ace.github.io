@@ -1,4 +1,4 @@
-# Blogs
+# [Blogs](all-blogs.md)
 
 {% include_relative recent.md %}
 
