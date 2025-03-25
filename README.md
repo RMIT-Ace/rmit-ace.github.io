@@ -2,6 +2,8 @@
 
 {% include_relative recent.md %}
 
+[More Blog Posts](all-blogs.md)
+
 # Projects
 
 - [Apple Health & Fitness](https://github.com/RMIT-Ace/Apple-Health-and-Fitness)
