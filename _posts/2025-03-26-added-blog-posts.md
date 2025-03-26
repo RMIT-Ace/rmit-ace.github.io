@@ -1,9 +1,6 @@
-
 ---
 layout: post
 title: "Hello World!"
 ---
 
-# Welcome
-
-**Hello World!**
+Welcome to RMIT Ace's Blog

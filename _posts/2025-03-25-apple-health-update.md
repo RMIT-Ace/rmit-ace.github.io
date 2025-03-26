@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Simple Heart Rate Sample Project"
+---
 
 ## Apple Health R&D: Simple Heart Rate Sample Project
 
