@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Simple Heart Rate Sample Project"
 ---
 
