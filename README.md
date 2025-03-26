@@ -2,8 +2,8 @@
 
 {% for post in site.posts %}
     <div>
-    {{ post.title }}<br/>
-    {{ post.excerpt }}
+    {{ post.title | markdownify }}<br/>
+    {{ post.excerpt | markdownify }}
     </div>
 {% endfor %}
 
