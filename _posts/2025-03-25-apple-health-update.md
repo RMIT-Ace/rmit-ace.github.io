@@ -7,6 +7,8 @@ title: "Simple Heart Rate Sample Project"
 
 Added sample Xcode project for accessing Heart Rate and Respiratory data from HealthKit.
 
+<!--more-->
+
 See:
 - [Apple Health R&D - SimpleHeartrate App](https://github.com/RMIT-Ace/Apple-Health-and-Fitness/tree/main/prj/SimpleHeartrate)
 - [Apple Health R&D - SimpleBreathing App](https://github.com/RMIT-Ace/Apple-Health-and-Fitness/tree/main/prj/SimpleBreathingRate)
