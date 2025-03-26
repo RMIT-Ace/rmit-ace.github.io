@@ -1,4 +1,4 @@
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 <div>
 <h3>{{ post.title | markdownify }}</h3>
 {{ post.excerpt | markdownify }}
