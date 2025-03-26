@@ -1,10 +1,10 @@
 # [Blogs](all-blogs.md)
 
 {% for post in site.posts %}
-    <div>
-    {{ post.title | markdownify }}<br/>
-    {{ post.excerpt | markdownify }}
-    </div>
+<div>
+{{ post.title | markdownify }}<br/>
+{{ post.excerpt | markdownify }}
+</div>
 {% endfor %}
 
 [More Blog Posts](all-blogs.md)
