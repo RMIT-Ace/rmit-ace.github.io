@@ -1,8 +1,4 @@
-# [Blogs](all-blogs.md)
-
 {% include_relative recent.md %}
-
-[More Blog Posts](all-blogs.md)
 
 # Projects
 
