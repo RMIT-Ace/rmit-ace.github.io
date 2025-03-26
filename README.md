@@ -1,11 +1,6 @@
 # [Blogs](all-blogs.md)
 
-{% for post in site.posts %}
-<div>
-{{ post.title | markdownify }}<br/>
-{{ post.excerpt | markdownify }}
-</div>
-{% endfor %}
+{% include_relative recent.md %}
 
 [More Blog Posts](all-blogs.md)
 
