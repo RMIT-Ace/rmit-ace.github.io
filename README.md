@@ -1,6 +1,11 @@
 # [Blogs](all-blogs.md)
 
-{% include_relative recent.md %}
+{% for post in site.posts %}
+    <div>
+    {{ post.title }}<br/>
+    {{ post.excerpt }}
+    </div>
+{% endfor %}
 
 [More Blog Posts](all-blogs.md)
 
