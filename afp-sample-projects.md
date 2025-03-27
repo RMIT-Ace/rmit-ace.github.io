@@ -1,4 +1,4 @@
-# AFP Course Materials & Sample Projects
+# AFP Course Materials & Sample Projects (public)
 
 ## Course Materials
 

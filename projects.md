@@ -1,4 +1,4 @@
-# Projects
+# Projects (non-public, invitation only)
 
 - [Apple Vision Pro: Research](https://github.com/RMIT-Ace/VisionPro-Research)
 - [Apple Health & Fitness](https://github.com/RMIT-Ace/Apple-Health-and-Fitness)
