@@ -8,6 +8,8 @@ title: "Apple Vision Pro Setup"
 Successfully setup my Vision Pro for development. Now, it is remotely paired up with my Xcode.
 No additional hardware is required.
 
-See: [Setup Vision Pro for Development](https://github.com/RMIT-Ace/VisionPro-Research/blob/main/docs/visionpro-dev-setup.md)
+See: 
+- [Apple Vision Pro: Research](https://github.com/RMIT-Ace/VisionPro-Research)
+    - [Setup Vision Pro for Development](https://github.com/RMIT-Ace/VisionPro-Research/blob/main/docs/visionpro-dev-setup.md)
 
 <!--more-->
