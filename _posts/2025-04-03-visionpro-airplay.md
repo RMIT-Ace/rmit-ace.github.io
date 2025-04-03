@@ -4,7 +4,7 @@ title: "Share Viewing from Apple Vision Pro"
 ---
 
 How to share what you see on Vision Pro with your friends?
-Turn out Airplay works on Vision Pro just like it would on any Apple devics.
+Turn out Airplay works on Vision Pro just like it would on any Apple devices.
 
 [![Vision Pro to Mac](https://img.youtube.com/vi/cEN1MXnPTBg/default.jpg)](https://youtu.be/cEN1MXnPTBg) Airplay from Vision Pro to Mac.
 
@@ -25,3 +25,4 @@ Turn out Airplay works on Vision Pro just like it would on any Apple devics.
 ## On Vision Pro
 1. Open Control Centre
 2. From "View Mirroring" select the Mac you want to airply to. Note, both Mac and Vision Pro must be on the same Wi-Fi network and Wi-Fi network must support Apple Bonjour.
+3. **Pro tip:** You can also video recording Vision Pro screen. However, this option has limitation that It does NOT allow recording while Airplay is active.
