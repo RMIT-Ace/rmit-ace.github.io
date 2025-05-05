@@ -14,13 +14,12 @@ I have successfully porting Unity projects to Vision Pro. In this first-round at
 
 - The gameplay works with external bluetooth keyboard wirelessly connected to Vision Pro. With no modification to the source code, Unity app cannot interact with visionOS's gesture controls (eye or hands gestures)
 
-- The generated source codes are C++ - not Swift/SwiftUI. Modifying the generated source code directly from Xcode is NOT convenient and not recommended as they will be overwritten the next time the project is ported again.
+- The generated source codes are in C++ - not Swift/SwiftUI. Modifying the generated source code directly from Xcode is NOT convenient and not recommended as they will be overwritten the next time the project is ported again.
 
 <!--more-->
 
-# R&D Plan
+# Next Step - R&D Plan
 
-![](https://github.com/RMIT-Ace/VisionPro-Research/blob/main/res/vision-arch.png)
+- [ ] Research into Unity's Poly Spatial technology and create 3D volume and immersive features
 
-1) Research into Unity' Poly Spatial technology and create 3D volume and immersive features
-2) Research how to access Vision Pro's gesture control from Unity app
+- [ ] Research how to access Vision Pro's gesture control from Unity app
