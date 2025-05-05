@@ -18,8 +18,13 @@ I have successfully porting Unity projects to Vision Pro. In this first-round at
 
 <!--more-->
 
+# Sample Projects and Setup Instructions
+
+- For Unity and Xcode setup instructions and sample projects I used for porting, see: [Unity on Apple](https://github.com/RMIT-Ace/unity-on-apple) (NOTE: Access via invitation only)
+
+
 # Next Step - R&D Plan
 
 - [ ] Research into Unity's Poly Spatial technology and create 3D volume and immersive features
 
-[ ] Research how to access Vision Pro's gesture control from Unity app
+- [ ] Research how to access Vision Pro's gesture control from Unity app
