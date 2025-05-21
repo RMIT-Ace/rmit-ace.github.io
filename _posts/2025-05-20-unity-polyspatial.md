@@ -18,3 +18,13 @@ Nursing SIM in fully immersive 3D! I reckoned we still need that better mash/ski
 ## Note & Outstandings
 1. I managed to get keyboard control to work on 2D "Windowed" apps when porting to Vision Pro
 2. However, the same apps when ported using PolySpatial, keyboard control still not working
+
+<!--more-->
+
+For information on Unity Project Setup and access to sample source code, please visit:
+
+> [!NOTE]
+> Access available on invitation only
+>
+> https://github.com/RMIT-Ace/unity-on-apple
+>
